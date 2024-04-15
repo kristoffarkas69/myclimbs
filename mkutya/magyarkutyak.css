@@ -1,0 +1,43 @@
+body{
+    width: 960px;
+    margin: 0 auto;
+    background-color: #d2691e;
+}
+.hasab {
+    width: 40%;
+}
+
+h1{
+    border-bottom:2px brown solid ;
+}
+li{
+    min-width: 50px;
+    padding: 6px;
+    color: white;
+    list-style-type: none;
+    display:inline-block;
+    border-left: solid #a52a2a 2px;
+}
+h2{
+    width: 96%;
+    background-color: #cd853f;
+    font-style: italic;
+}
+p{
+    text-align: justify;
+}
+.kepek{
+    width: 100px;
+    border-radius: 2px;
+    border-color: #a52a2a;
+    border: solid;
+}
+.bal{
+    float: left;
+}
+.jobb{
+    float: right;
+}
+#nincs{
+    border-left:0px ;
+}
